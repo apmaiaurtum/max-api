@@ -2,7 +2,7 @@
 const streamMap = {
   "ClUB": {
     url: "https://2-fss-2.streamhoster.com/pl_138/207480-6531544-1/playlist.m3u8",
-    poster: ""
+    poster: "#"
   },
   "tencric": {
     url: "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/master.m3u8",
