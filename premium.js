@@ -1,6 +1,6 @@
 // streams.js
 const streamMap = {
-  "ClUB": {
+  "CLUB": {
     url: "https://2-fss-2.streamhoster.com/pl_138/207480-6531544-1/playlist.m3u8",
     poster: "https://i.ibb.co/1tgPjyNH/IMG-20250803-013514.jpg"
   },
